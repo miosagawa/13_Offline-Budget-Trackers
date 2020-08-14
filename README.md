@@ -2,7 +2,7 @@ Folder update content:
 Update date：Aug 12, 2020
 
 Github: https://github.com/miosagawa/13_Offline-Budget-Trackers.git
-https://miosagawa.github.io/13_Offline-Budget-Trackers/public/index.html
+URL: https://miosagawa.github.io/13_Offline-Budget-Trackers/public/index.html
 
 
 1.Online/Offline Budget Trackers（Created according to the following conditions）
