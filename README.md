@@ -1,7 +1,7 @@
 Folder update content:
 Update date：Aug 12, 2020
 
-Github: https://github.com/miosagawa/06_Employee-Tracker
+Github: https://github.com/miosagawa/13_Offline-Budget-Trackers.git
 https://drive.google.com/file/d/1XxoDBKY9NKSl7sZsVamYcVgNok9x-Q8h/view
 
 
