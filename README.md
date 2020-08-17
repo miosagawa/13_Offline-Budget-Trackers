@@ -6,7 +6,6 @@ Update date：Aug 12, 2020
   * URL: https://miosagawa.github.io/13_Offline-Budget-Trackers/public/index.html
 
 
-
 1.Online/Offline Budget Trackers（Created according to the following conditions）
 
 ![Database Schema](sample.png)
